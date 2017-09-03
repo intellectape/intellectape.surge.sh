@@ -1,3 +1,22 @@
-<h1>
-  {{title}}
-</h1>
+<app-nav></app-nav>
+<header>
+    <div class="header-container">
+        <h1 class="starter-template">
+            {{title}}
+        </h1>
+    </div>
+</header>
+<div class="container">
+    <div class="starter-template">
+        <div [style.color]="newColor">
+            <h2>
+                {{body}}
+            </h2>
+            <h2>
+                {{addedText}}
+            </h2>
+        </div>
+    </div>
+</div>
+
+<app-footer></app-footer>

@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
+  title = 'Welcome to my portfolio!';
+  body = 'I am aditya';
+  addedText = 'The Website is under construction! Sorry for keeping you waiting.';
+  newColor = 'green';
 }
+
