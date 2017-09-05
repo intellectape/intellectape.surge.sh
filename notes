@@ -1,8 +1,0 @@
-npm run webdriver:update
-
-
-Editing port information:
-In angular-cli.json =>> defaults add following:
-"serve": {
-    "port": 1337
-  }

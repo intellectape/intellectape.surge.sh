@@ -1,2 +1,0 @@
-# My Angular Website Portfolio
-
